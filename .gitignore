@@ -5,3 +5,6 @@
 https/*
 
 .DS_Store
+
+# Don't ignore any .md files
+!*.md
